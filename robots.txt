@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--web3-3v4gm16f.com/sitemap.xml
